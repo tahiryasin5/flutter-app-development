@@ -215,7 +215,7 @@ class _GetApiState extends State<GetApi> {
                                   style: TextStyle(
                                       fontWeight: FontWeight.bold,
                                       fontSize: 20,
-                                      color: Colors.white),
+                                      color: Colors.white, ),
                                 ),
                         ),
                       ],
