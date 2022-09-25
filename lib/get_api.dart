@@ -132,7 +132,8 @@ class _GetApiState extends State<GetApi> {
                           style: const TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 20,
-                              color: Colors.white),
+                              color: Colors.white,
+                          ),
                         ),
                         const SizedBox(
                           height: 30,
